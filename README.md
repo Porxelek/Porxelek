@@ -22,6 +22,55 @@ Experienced in Data Preprocessing, Data Manipulation, Data Visualization, Data A
 </p>
 
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/porxelek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/porxelek/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/eemhsynsk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+## To Reach Me
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-tastaban/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/metastaban/)
+[![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetemin@tastaban.net)
+
+---
+<br>
+
+<center>
+
+## To Reach Me
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-emin-tastaban/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/metastaban/)
+[![](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetemin@tastaban.net)
+
+---
+
+<br>
+
+## Top Skills
+
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)](#)
+[![Pandas Badge](https://img.shields.io/badge/-Pandas-130654?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#)
+[![Scipy Badge](https://img.shields.io/badge/-scipy-0054a6?style=for-the-badge&labelColor=black&logo=scipy&logoColor=0054a6)](#)
+
+[![SQLite](https://img.shields.io/badge/-SQLite-003b57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003b57)](#)
+[![Matplotlib Badge](https://img.shields.io/badge/-matplotlib-11557c?style=for-the-badge&labelColor=black&logo=microstrategy&logoColor=11557c)](#)
+[![Seaborn Badge](https://img.shields.io/badge/-seaborn-7db0bc?style=for-the-badge&labelColor=black&logo=cesium&logoColor=7db0bc)](#)
+
+[![SQL-Server Badge](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#)
+[![Tableau Badge](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)](#)
+
+## Currently Learning
+
+[![Scikit-learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
+[![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-ff6f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff6f00)](#)
+
+[![Keras Badge](https://img.shields.io/badge/-keras-d00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=d00000)](#)
+[![Streamlit Badge](https://img.shields.io/badge/-streamlit-ff4b4b?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=ff4b4b)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232f3e)](#)
+
+
+### Don't stop, keep going to learn!
+
+<br>
+
