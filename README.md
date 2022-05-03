@@ -26,9 +26,8 @@ Experienced in Data Preprocessing, Data Manipulation, Data Visualization, Data A
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/porxelek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/porxelek/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/eemhsynsk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
----
-<br>
----
+
+
 
 <br>
 
@@ -49,12 +48,6 @@ Experienced in Data Preprocessing, Data Manipulation, Data Visualization, Data A
 ## Currently Learning
 
 [![Scikit-learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#)
-[![Tensorflow Badge](https://img.shields.io/badge/-tensorflow-ff6f00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=ff6f00)](#)
-
-[![Keras Badge](https://img.shields.io/badge/-keras-d00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=d00000)](#)
-[![Streamlit Badge](https://img.shields.io/badge/-streamlit-ff4b4b?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=ff4b4b)](#)
-[![AWS Badge](https://img.shields.io/badge/-AWS-232f3e?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=232f3e)](#)
-
 
 ### Don't stop, keep going to learn!
 
