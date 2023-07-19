@@ -8,7 +8,8 @@ Experienced in Data Preprocessing, Data Manipulation, Data Visualization, Data A
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [eemhsynsk@gmail.com](mailto:eemhsynsk@gmail.com)
-* 🧠  I'm learning ML
+* 🧠  I'm learning AI
+* 🧠  I'm learning AWS
 
 ### Socials
 
